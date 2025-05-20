@@ -57,7 +57,7 @@ title: Vishal Vijay Todkar - Data Portfolio
 </style>
 
 <div class="header">
-  <h1>Vishal Vijay Todkar</h1>
+  <h1>Vishal Todkar</h1>
   <p>Business Analyst | Skilled in SQL, Excel, Power BI, Tableau | Passionate about Data & Product Growth</p>
 </div>
 
